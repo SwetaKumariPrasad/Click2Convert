@@ -35,9 +35,6 @@ streamlit run app.py
 6. **Choose Conversion Format** (CSV or Excel).
 7. **Download the Processed File**.
 
-## 🖥️ Demo Screenshot
-📸 *[Include a screenshot of the app running]*
-
 ## 📌 File Structure
 ```
 📂 Streamlit-App

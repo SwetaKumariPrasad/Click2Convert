@@ -19,9 +19,9 @@ pip install streamlit pandas openpyxl
 ```
 
 ### 2️⃣ Run the App
-Save the script as `app.py` and launch the Streamlit app:
+Save the script as `App.py` and launch the Streamlit app:
 ```sh
-streamlit run app.py
+streamlit run App.py
 ```
 
 ## 🔄 How It Works
@@ -38,7 +38,7 @@ streamlit run app.py
 ## 📌 File Structure
 ```
 📂 Streamlit-App
-│── app.py            # Main Streamlit application
+│── App.py            # Main Streamlit application
 │── requirements.txt  # Dependencies
 │── README.md         # Project documentation
 ```
